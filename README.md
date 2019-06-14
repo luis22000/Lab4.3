@@ -10,7 +10,9 @@ node index
 
 Comando para que cuando el balandeador de carga cree instancias y active la pagina web
 #!/bin/bash
+
 cd /home/ec2-user/Lab4.3
+
 /home/ec2-user/.nvm/versions/node/v12.4.0/bin/node index.js
 
 El proyecto se creo de la siguiente manera
