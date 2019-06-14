@@ -3,9 +3,15 @@
 
 Buen dia para poder ejecutar el laboratorio se tiene que instalar node js y despues ir a la carpate del proyecto y ejecutar node indez
 
+
 Ej:
 cd Lab4.3
 node index
+
+Comando para que cuando el balandeador de carga cree instancias y active la pagina web
+#!/bin/bash
+cd /home/ec2-user/Lab4.3
+/home/ec2-user/.nvm/versions/node/v12.4.0/bin/node index.js
 
 El proyecto se creo de la siguiente manera
 
